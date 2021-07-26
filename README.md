@@ -5,7 +5,7 @@ This is just heroku support source
 Main source is here [main source](https://github.com/Sydking/CatuserBot) fork and give star to that repo 
 
 ## Setup Heroku⚕️
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Sydking/CatuserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sydking/CatuserBot)
 
 ## Thanks Hah🔥
    - [@sydpewer](https://t.me/SydPewer)
