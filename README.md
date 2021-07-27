@@ -8,5 +8,5 @@ Main source is here [main source](https://github.com/Sydking/CatuserBot) fork an
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sydking/CatuserBot)
 
 ## STRING
-   - [CLICK ME](https://github.com/Sydking/CatuserBot)
+   - [CLICK ME](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
    - [Thank To.....](Https://t.me/Legend_On_TG)
